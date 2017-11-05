@@ -44,7 +44,7 @@ function Character(name){
 //         }
 //     }
 // }
-var illidan = new Character("illidan");
+var illidan = new Character("Illidan");
 var hanzo = new Character("Hanzo");
 var genji = new Character("Genji");
 var arthas = new Character("Arthas");
